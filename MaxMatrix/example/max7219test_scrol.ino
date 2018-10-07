@@ -1,27 +1,4 @@
 /*
-################################################################################
-# File Name:             MAX7219_5.ino                                             
-# Board:                 Arduino UNO         
-# Programming Language:	 Wiring / C /Processing /Fritzing / Arduino IDE          
-#						
-# Objective:             Scrolling LED dot Matrix
-#										  
-# Operation:	         Scrolls a message over a 16x8 LED dot matrix
-#			
-# Author:                Marcelo Moraes 
-# Date:                  July 9th, 2013	
-# Place:                 Sorocaba - SP - Brazil	
-#					
-################################################################################
- 
- This code is a public example.
- */
-
-//******************************************************************************
-// visit this web page for further information about MaxMatrix library
-// https://code.google.com/p/arudino-maxmatrix-library/
-//******************************************************************************
-
 
 #include <MaxMatrix.h>
 #include <avr/pgmspace.h>
